@@ -1,6 +1,6 @@
 %######################################################
 % This code is part of the Matlab-based toolbox
-% LINALG --- Linear Algebra Toolkit
+% Ax=b --- Linear Algebra Toolkit
 % For details see https://github.com/andreasmang/linalg
 %######################################################
 
