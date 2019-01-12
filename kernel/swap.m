@@ -1,7 +1,7 @@
 function B = swap(A,r1,r2)
 % function B = swap(A,r1,r2)
 %
-%   interchanges rows r and s of matrix A
+%   interchanges rows r1 and r2 of matrix A
 
 if nargin < 3
 	error('not enough input arguments')
