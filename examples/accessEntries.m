@@ -1,9 +1,4 @@
-%######################################################
-% This code is part of the Matlab-based toolbox
-% Ax=b --- Linear Algebra Toolkit
-% For details see https://github.com/andreasmang/linalg
-%######################################################
-
+clear, close all;
 
 %//////////////////////////////////////////////////////
 % vector entries
@@ -33,3 +28,10 @@ A(:,1)
 A(1,:)
 
 
+
+
+%######################################################
+% This code is part of the Matlab-based toolbox
+% Ax=b --- Linear Algebra Toolkit
+% For details see https://github.com/andreasmang/linalg
+%######################################################

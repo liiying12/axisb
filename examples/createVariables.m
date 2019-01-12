@@ -1,22 +1,14 @@
-%######################################################
-% This code is part of the Matlab-based toolbox
-% Ax=b --- Linear Algebra Toolkit
-% For details see https://github.com/andreasmang/linalg
-%######################################################
-
+clear, close all;
 
 % asign a value to a scalar
-a = 8;
 x = 3;
-
-
-% multiply two scalars
-y = a*x;
 
 
 % create a column vector x in R^4
 x = [1; 2; 3; 4];
 
+% create a row vector x in R^4
+x = [1, 2, 3, 4];
 
 % create a 4x1 column vector with uniformly distributed
 % random numbers in the interval (0,1)
@@ -64,3 +56,10 @@ b = rand(10,1);
 M = [A, b];
 
 
+
+
+%######################################################
+% This code is part of the Matlab-based toolbox
+% Ax=b --- Linear Algebra Toolkit
+% For details see https://github.com/andreasmang/linalg
+%######################################################
