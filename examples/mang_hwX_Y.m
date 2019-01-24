@@ -6,7 +6,6 @@ clc;
 for k = 2:5
 	% for every k, generate a vector
 	% of size k x 1 with random entries
-
 	x = rand(k,1);
 
 	% display size of vector
