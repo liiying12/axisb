@@ -23,7 +23,8 @@ These are advanced instructions and __not required__ for your linear algebra cla
 * To clone the repository, Git needs to be installed on your computer. You can check by typing `git --version` in your command window (i.e., your shell). If the output looks something like this, you are good to go:
 
 ```[amang@mac: ~ ]$ git --version
-git version 2.17.2 (Apple Git-113)```
+git version 2.17.2 (Apple Git-113)
+```
 
 * There are a lot of good online resources to learn more about `git`. Two examples are:
   * https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
