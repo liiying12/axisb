@@ -14,10 +14,7 @@ Ax=b &copy; 2018 [Andreas Mang](http://www.math.uh.edu/~andreas): This is a coll
 * You can download the code by clicking the `clone or download` bottom on the top right.
 * To download the code simply select `Download ZIP`.
 * Advanced instructions: To clone the code, create a directory, go to that directory in your command window and type the command `git clone git@github.com:andreasmang/axisb.git .`
-
-* Advanced instructions: Learn more about `git` here:
-
-[https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+* Advanced instructions: Learn more about `git` here: `[https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
  
 ### Running the Code
 To run the examples and use the functions implemented in the `kernels` folder from the toplevel directory, run the `startup.m` script. This will add the necessary paths to your environment. 
