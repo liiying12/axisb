@@ -4,17 +4,17 @@ Ax=b &copy; 2018 [Andreas Mang](http://www.math.uh.edu/~andreas): This is a coll
 
 ### General Instructions
 * To learn more about Matlab commands use the built in Matlab help and documentation. For example, if you want to learn about the `rand` command type `doc rand` or `help rand` into the Matlab command window.
-* The documentation can also be found online. You can simply type `Matlab cmd`, where `cmd` represents the command or operation you are interested into your favorite search engine to learn more about it.
+* The documentation can also be found online. You can simply type `Matlab cmd`, where `cmd` represents the command or operation you are interested in, into your favorite search engine to learn more about it.
 * Take a look at the scripts in the [examples](https://github.com/andreasmang/axisb/tree/master/examples) folder. These scripts provide code snippets to help you with your homework assignments.
 * Send me an [email](andreas@math.uh.edu) to make an appointment or visit me during my office hours if you feel that the resources you can find online or above are not adequate.
 
 
 ### Download and Installation
 * Downloading the code or getting familiar with GitHub or Git itself is __not required__ for your linear algebra class. You can browse the repository by clicking on the folders and code files above. 
-* You can download the code by clicking the `clone or download` button on the top right. To download the code simply select `Download ZIP`.
+* You can download the code to your computer by clicking the `clone or download` button on the top right. To download the code simply select `Download ZIP`.
 
 ### Running the Code
-To run the examples and use the functions implemented in the `kernels` folder from the toplevel directory, run the `startup.m` script. This will add the necessary paths to your environment. 
+To run the examples and use the functions implemented in the `kernels` folder from the toplevel directory of the 'axisb' toolbox, run the `startup.m` script. This will add the necessary paths to your environment. Now you can run all examples and use all functions in the toolbox without having to change folders. 
 
 ### Learning more about Git and GitHub
 These are advanced instructions and __not required__ for your linear algebra class.
