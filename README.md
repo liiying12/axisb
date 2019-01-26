@@ -11,9 +11,8 @@ Ax=b &copy; 2018 [Andreas Mang](http://www.math.uh.edu/~andreas): This is a coll
 
 ### Download and Installation
 * Downloading the code or getting familiar with GitHub or Git itself is not required. You can browse the repository by clicking on the folders and code files above. 
-* You can download the code by clicking the `clone or download` bottom on the top right.
-* To download the code simply select `Download ZIP`.
-* Advanced instructions: To clone the code, create a directory, go to that directory in your command window and type the command `git clone git@github.com:andreasmang/axisb.git .`
+* You can download the code by clicking the `clone or download` button on the top right. To download the code simply select `Download ZIP`.
+* Advanced instructions: To clone the code, create a directory on your computer, go to that directory in your command window, and type the command `git clone git@github.com:andreasmang/axisb.git .`. This will download the repository to your computer. To get updates simply type `git pull` in that folder.
 * Advanced instructions: Learn more about `git` here: `[https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
  
 ### Running the Code
