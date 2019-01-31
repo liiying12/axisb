@@ -1,6 +1,6 @@
 clear, close all;
 
-% asign a value to a scalar
+% assign a value to a scalar
 x = 3;
 
 

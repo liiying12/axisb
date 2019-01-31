@@ -59,3 +59,10 @@ fprintf('\n\n');
 % and represent them as a row vector
 x = rand(3,1);
 fprintf('x = [%.6f %.6f %.6f]\n', x);
+
+
+%######################################################
+% This code is part of the Matlab-based toolbox
+% Ax=b --- Linear Algebra Toolkit
+% For details see https://github.com/andreasmang/linalg
+%######################################################
