@@ -20,7 +20,6 @@ fprintf('matrix A: \n');
 disp(A);
 fprintf('condition number of A: %e \n\n', cond(A));
 
-
 % create a random vector that will be the solution of
 % our problem
 xstar = rand(n,1);
@@ -100,3 +99,24 @@ disp(x);
 % compute error and show it to user
 fprintf('error ||x - x^star||_2 = %e \n', norm(x - xstar)/norm(xstar));
 fprintf('\n\n');
+
+%//////////////////////////////////////////////////////////
+% EXPLANATION:
+% Notice that the condition number of your matrix is
+% at the order of 10^9. We expect the accuracy of
+% our computations to be approximately 10^{-16} (i.e.,
+% you can trust the computations up to 16 digits).
+% Things are different here; we will loose roughly 9
+% digits (condition number 10^9) when computing
+% the inverse of A; so we expect an overall error
+% that is at the order of 10^{-7}
+%//////////////////////////////////////////////////////////
+
+
+
+
+%######################################################
+% This code is part of the Matlab-based toolbox
+% Ax=b --- Linear Algebra Toolkit
+% For details see https://github.com/andreasmang/linalg
+%######################################################
