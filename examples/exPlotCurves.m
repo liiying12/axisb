@@ -47,7 +47,7 @@ title('sin(x); 1000 grid points');           % adding a title
 % EXAMPLE 3: log scale plots; sometimes (e.g., if the values
 % of your function have a large range) it is useful to plot
 % your signal in a semi-logarithmic or even a log-log
-% scale; this example will how you hot to do this
+% scale; this example will show you how to do this
 %//////////////////////////////////////////////////////////
 n = 1000;          % number of points
 id = zeros(n,1);   % vector to store index of points
@@ -62,7 +62,7 @@ end
 % below we will compare a standard plot against a
 % semi-logarithmic plot; we use the same figure, and
 % display the values of y next to each other; this can
-% be achieved using the subplot command
+% be achieved by using the subplot command;
 figure(),
 subplot(1,2,1), plot(id,y); title('y = 2^k'); grid on;
 subplot(1,2,2), semilogy(id,y); title('y = 2^k in logarithmic scale'); grid on;
