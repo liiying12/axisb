@@ -1,6 +1,6 @@
-clear, close all;
+clear, close all; clc;
 
-% create matrix of size 7x10
+% create a random matrix of size 7x10
 A = % ADD YOUR CODE HERE
 
 % create random vector of size 10x1
