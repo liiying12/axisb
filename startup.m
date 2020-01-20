@@ -1,7 +1,7 @@
 clear, close all;
 clc;
 
-addpath('examples','kernel');
+addpath('examples','kernel','homework');
 
 
 
