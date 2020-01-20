@@ -6,7 +6,9 @@ for k = 2:5
     A = % ADD YOUR CODE HERE
 
     % find reduced echelon form of A
-    B = % ADD YOUR CODE HERE
-    fprintf('reduced echelon form of 4 x %d matrix A\n', k);
+    B =  % ADD YOUR CODE HERE
+
+    % display the result
+    fprintf('reduced echelon form of %d x 4 matrix\n', k);
     disp(B);
 end
