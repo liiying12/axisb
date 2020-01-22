@@ -22,7 +22,7 @@ These are advanced instructions and __not required__ for your linear algebra cla
 * To clone the code, create a directory on your computer, go to that directory in your command window (i.e., your shell), and type the command
 
 ```
-[andreasmang@mac: ~ ]$ git clone git@github.com:andreasmang/axisb.git .
+[andreasmang@mac: ~ ]$ git clone https://github.com/andreasmang/axisb.git .
 ```
 
 This will download the repository to your computer. To get updates simply type `git pull` in that folder.
