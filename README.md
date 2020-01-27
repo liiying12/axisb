@@ -3,6 +3,7 @@
 Ax=b &copy; 2018 [Andreas Mang](http://www.math.uh.edu/~andreas): This is a collection of Matlab code snippets to explore conceptual ideas in linear algebra. This toolkit is primarily designed to serve as a teaching tool.
 
 ### General Instructions
+* To get started with Matlab take a look at the MathWorks [help](https://www.mathworks.com/help/matlab/getting-started-with-matlab.html).
 * To learn more about Matlab commands use the built in Matlab help and documentation. For example, if you want to learn about the `rand` command type `doc rand` or `help rand` into the Matlab command window.
 * The documentation can also be found online. You can simply type `Matlab cmd`, where `cmd` represents the command or operation you are interested in, into your favorite search engine to learn more about it.
 * Take a look at the scripts in the [examples](https://github.com/andreasmang/axisb/tree/master/examples) folder. These scripts provide code snippets to help you with your homework assignments.
