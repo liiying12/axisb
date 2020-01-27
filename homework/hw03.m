@@ -6,11 +6,11 @@ A = % ADD YOUR CODE HERE
 % create 10 x 1 vector of all ones
 u = % ADD YOUR CODE HERE
 
-% compute matrix vector product
+% compute matrix-vector product (matvec)
 y = % ADD YOUR CODE HERE
 
 % display result
 fprintf('y = \n');
 disp(y);
 
-% DESCRIBE YOUR OBSERVATIONS BELOW
+% DESCRIBE YOUR OBSERVATIONS BELOW (as a comment)
